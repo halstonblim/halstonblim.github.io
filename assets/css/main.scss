@@ -1,2 +1,8 @@
-$sidebar-bg-color: #e6f7ff;
+---
+# Jekyll needs front matter for SCSS files
+---
+
+$sidebar-bg-color: #ac4142;
+$link-color: #ac4142;
+$sidebar-sticky: false;
 @import "hydeout";
